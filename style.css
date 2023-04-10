@@ -12,12 +12,8 @@ header {
     background-color: white;
     height: 100px;
 }
-html {
-    background-color: aliceblue;
-}
-
 main {
-    background-color: beige;
+    background-color: lightsteelblue;
     flex: 1;
 }
 footer {
@@ -28,4 +24,15 @@ body {
     margin: 0;
     flex-direction: column;
     height: 100vh;
+}
+h1 {
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    width: 500px;
+    margin: auto;
+    text-align: center;
 }
