@@ -37,7 +37,18 @@ h2 {
     margin: auto;
     text-align: center;
 }
-p {
+h3 {
     font-size: 35px;
     color: brown;
+}
+.project {
+    background-color: white;
+    max-width: 700px;
+    padding: 50px;
+    border: 3px solid;
+    margin: 50px;
+}
+.picture {
+    float: right;
+    max-width: 150px;
 }
