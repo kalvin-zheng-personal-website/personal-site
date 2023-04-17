@@ -16,6 +16,8 @@ main {
     background-color: lightsteelblue;
     flex: 1;
     font-size: larger;
+    display: flex;
+    flex-direction: column;
 }
 footer {
     background-color: lightblue;
