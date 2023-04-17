@@ -54,3 +54,22 @@ h3 {
     float: right;
     max-width: 150px;
 }
+form {
+    display: flex;
+    flex-direction: column;
+}
+input, button, textarea {
+    width: 10%;
+    height: 30px;
+    font-size: 15px;
+    margin: 10px;
+}
+label {
+    margin: 10px;
+}
+button {
+    width: 10.3%;
+}
+textarea {
+    height: 100px;
+}
